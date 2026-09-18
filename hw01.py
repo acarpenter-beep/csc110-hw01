@@ -54,7 +54,7 @@ def main():
     #Part 1 Arithmetic Expression
     result1 = ((3 * x) - (9 * y)) / ((2*a) * (b - c))
 
-    #Part 1 Print Statments
+    #Part 1 Print Statements
     print("Part 1: x =", x)
     print("Part 1: y =", y)
     print("Part 1: a =", a)
@@ -75,7 +75,7 @@ def main():
     #Part 2 Arithmetic Expression
     result2 = (x**2) * (y**4)
 
-    #Part 2 Print Statments
+    #Part 2 Print Statements
     print("Part 2: x =", x)
     print("Part 2: y =", y)
     print("Part 2: result =", result2)
@@ -94,7 +94,7 @@ def main():
     #Part 3 Arithmetic Expression
     result3 = int(a/b)
 
-    #Part 3 Print Statments
+    #Part 3 Print Statements
     print("Part 3: a =", a)
     print("Part 3: b =", b)
     print("Part 3: result =", result3)
@@ -108,7 +108,7 @@ def main():
     #Part 4 Arithmetic Expression
     result4 = (a%b)
 
-    #Part 4 Print Statments
+    #Part 4 Print Statements
     print("Part 4: result =", result4)
 
     # End of Part 4 ----------------------
